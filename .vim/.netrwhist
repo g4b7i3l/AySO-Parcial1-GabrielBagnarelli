@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/vagrant/parcial1'
+let g:netrw_dirhist_8='/home/vagrant/parcial1/puntoa.sh'
+let g:netrw_dirhist_7='/home/vagrant/parcial1'
+let g:netrw_dirhist_6='/home/vagrant/parcial1/puntoa.sh'
+let g:netrw_dirhist_5='/home/vagrant/parcial1/puntob.sh'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_3='/home/vagrant'
+let g:netrw_dirhist_2='/home/vagrant/parcial1'
+let g:netrw_dirhist_1='/home/vagrant/parcial1/puntoa.sh'
